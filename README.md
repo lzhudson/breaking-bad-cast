@@ -4,7 +4,7 @@
 > This application has the simple purpose of listing data about the American series Breaking Bad.
  
 ***Screenshots:***
-
+<p><img src="https://github.com/lzhudson/breaking-bad-cast/blob/master/screenshots/screen-1.png" alt=""></p>
 
 ## 📌 Table of Contents
 - [Installation](#installation)
