@@ -2,16 +2,18 @@
 
 # Breaking Bad Cast
 > This application has the simple purpose of listing data about the American series Breaking Bad.
+
+## 📌 Table of Contents
+- [Installation](#installation)
+- [Features](#features)
+- [Future Features](#future-features)
+
  
 ***Screenshots:***
 <p><img src="https://github.com/lzhudson/breaking-bad-cast/blob/master/screenshots/screen-1.png" alt="Screenshot 1"></p>
 <p><img src="https://github.com/lzhudson/breaking-bad-cast/blob/master/screenshots/screen-2.png" alt="Screenshot 2"></p>
 <p><img src="https://github.com/lzhudson/breaking-bad-cast/blob/master/screenshots/screen-3.png" alt="Screenshot 3"></p>
 
-## 📌 Table of Contents
-- [Installation](#installation)
-- [Features](#features)
-- [Future Features](#future-features)
 
 ## 📍 Features
 - [X] Get all characters
