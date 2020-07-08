@@ -11,6 +11,7 @@
 ## 📌 Table of Contents
 - [Installation](#installation)
 - [Features](#features)
+- [Future Features](#future-features)
 
 ## 📍 Features
 - [X] Get all characters
