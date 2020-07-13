@@ -38,4 +38,3 @@ $ yarn
 - [ ] Pagination
 - [ ] Filter character by episode
 - [ ] Create series phrase page
-- [ ] Create page of character
